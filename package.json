@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "It should download the resource at the URL to the local path on your machine and save it to a file",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGrossett/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGrossett/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/SGrossett/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
